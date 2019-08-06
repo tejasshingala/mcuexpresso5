@@ -1,5 +1,6 @@
 //Name: tejas shingala
-#college: lambton college
+
+//college: lambton college
 
 <projectDescription>
 	<name>freertos_blinky</name>
@@ -23,3 +24,4 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
 </projectDescription>
+
