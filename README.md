@@ -1,6 +1,4 @@
-//Name: tejas shingala
-
-//college: lambton college
+//Name: tejas shingal
 
 <projectDescription>
 	<name>freertos_blinky</name>
