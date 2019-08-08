@@ -1,4 +1,4 @@
-//Name: tejas shingal
+
 
 <projectDescription>
 	<name>freertos_blinky</name>
